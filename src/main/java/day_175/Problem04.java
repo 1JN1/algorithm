@@ -2,8 +2,6 @@ package day_175;
 
 import org.junit.Test;
 
-import java.util.Arrays;
-
 /**
  * @author 王文涛
  * @version 1.0
